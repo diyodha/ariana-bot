@@ -1,4 +1,4 @@
-Verina Telegram Bot 
+Ariana Telegram Bot 
 =========================
 
 This bot is hosted on [Gomix](https://gomix.com/about)
